@@ -3,10 +3,12 @@ Unet convolutional neural network (CNN) implementation in Python Jupyter noteboo
 
 
 ### Background
-Optical coherence tomography (OCT) is an emerging technology for performing high-resolution cross-sectional imaging. OCT is analogous to ultrasound imaging, except that it uses light instead of sound. OCT can provide cross-sectional images of tissue structure on the micron scale in situ and in real time.  Macular edema is the build-up of fluid in the macula, an area in the center of the retina. The retina is the light-sensitive tissue at the back of the eye and the macula is the part of the retina responsible for sharp, straight-ahead vision. Fluid buildup causes the macula to swell and thicken, which distorts vision. The following image shows example OCT image of retina in humans. The left images shows a healthy case while the right one shows presence of edema.
+Optical coherence tomography (OCT) is an emerging technology for performing high-resolution cross-sectional imaging. OCT is analogous to ultrasound imaging, except that it uses light instead of sound. OCT can provide cross-sectional images of tissue structure on the micron scale in situ and in real time.  Macular edema is the build-up of fluid in the macula, an area in the center of the retina. The retina is the light-sensitive tissue at the back of the eye and the macula is the part of the retina responsible for sharp, straight-ahead vision. Fluid buildup causes the macula to swell and thicken, which distorts vision. The following image shows example OCT image of retina in humans. The top images shows a healthy case while the bottom one shows presence of edema.
+<br> 
 
 ![normal](https://user-images.githubusercontent.com/34323960/108288628-c4976080-7141-11eb-8350-32ac88213aa4.png)
-
+<br> 
+<br> 
 ![edema](https://user-images.githubusercontent.com/34323960/108288618-bfd2ac80-7141-11eb-9a98-57a6f86d4bb3.png)
 
 ### Data
