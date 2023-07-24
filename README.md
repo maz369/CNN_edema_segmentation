@@ -1,5 +1,5 @@
 # CNN_edema_segmentation
-Unet convolutional neural network (CNN) implementation in Python Jupyter notebook for segmenting edema in human eye retinal images. This code is shared with the public as a contribution to AI field and to help fellows better understand the concept and identify opportunities.
+Unet convolutional neural network (CNN) implementation in Python Jupyter notebook for segmenting edema in human eye retinal images. This code is shared with the public as a contribution to AI field and to help fellows better understand the concept and identify opportunities. 
 
 
 ### Background
